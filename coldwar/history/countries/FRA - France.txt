@@ -141,30 +141,32 @@ set_national_unity = 0.4
 set_politics = {
 
 	parties = {
+		
+		social_democratic = {
+			popularity = 89
+			}
+	
 		democratic = { 
-			popularity = 69
+			popularity = 7
 		}
 
 		fascism = {
-			popularity = 1
+			popularity = 0
 		}
 		
 		communism = {
-			popularity = 30
+			popularity = 4
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = social_democratic
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 add_ideas = {
-	FRA_victors_of_wwi
-	FRA_disjointed_government
-	FRA_protected_by_the_maginot_line
-	limited_conscription
+
 }
 
 #give_guarantee = CZE
@@ -176,7 +178,7 @@ create_country_leader = {
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
 	picture = "Portrait_France_Edouard_Daladier.dds"
 	expire = "1954.1.16"
-	ideology = socialism
+	ideology = social
 	traits = {
 	}
 }
