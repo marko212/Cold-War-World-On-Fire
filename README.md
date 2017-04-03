@@ -8,7 +8,7 @@
 
 -Social Democratic
 
--Conservatism
+-Conservatist
 
 -Libertarian
 
