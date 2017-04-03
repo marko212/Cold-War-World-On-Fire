@@ -10,7 +10,7 @@
 
 -Conservatist
 
--Libertarian
+-Libertarian  
 
 
 #### 2. Fascist
@@ -27,7 +27,6 @@
 
 -Communist
 
--Militarism
 
 ## Focustrees:
 
