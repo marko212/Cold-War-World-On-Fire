@@ -1,5 +1,13 @@
 ﻿l_english:
  communism:0 "Communist"
+ social_democratic:0 "Social Democratic"
+ social_democratic_noun:0 "Social Democracy"
+ pacifist:0 "Pacifist"
+ pacifism_noun:0 "Pacifism"
+ islamist:0 "Islamist"
+ islamist_noun:0 "Islamism"
+ monarchist:0 "monarchist"
+ monarchist_noun:0 "monarchism"
  communism_noun:0 "Communism"
  democratic:0 "Democratic"
  democratic_noun:0 "Democracy"
