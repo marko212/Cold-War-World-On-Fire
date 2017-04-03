@@ -1,6 +1,6 @@
 name="Coldwar: World on Fire"
 path="mod/coldwar/"
-picture = "coldwar.png"
+picture = "coldwar.jpeg"
 tags={
 	"Historical"
 	"National Focuses"
