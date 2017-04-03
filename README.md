@@ -1,5 +1,7 @@
 Powderkeg 1951:
+
 Ideologies:
+
 1. Democratic
 
 -Democratic
