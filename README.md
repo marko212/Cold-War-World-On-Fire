@@ -26,6 +26,7 @@
 #### 3. Communism
 
 -Communist
+
 -Militarism
 
 ## Focustrees:
