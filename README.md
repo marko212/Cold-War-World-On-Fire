@@ -20,6 +20,8 @@
 
 -Islamist
 
+-Nationalism
+
 
 #### 3. Communism
 
