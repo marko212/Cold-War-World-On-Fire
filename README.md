@@ -27,6 +27,13 @@
 
 -Communist
 
+#### 4. Unique
+
+-Non-Aligned
+
+-Pacifist
+
+-Military Regime
 
 ## Focustrees:
 
