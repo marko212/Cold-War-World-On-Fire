@@ -1,10 +1,26 @@
-# Cold-War: A world on Fire
--To do:
+Powderkeg 1951:
+Ideologies:
+1. Democratic
 
--Fix all the states - X
+-Democratic
 
--Focus trees - X X X X X X
+-Social Democratic
 
--Releasable nations - X
+-Conservatism
 
--More - X
+-Libertarian
+
+
+2. Fascist
+-Neo-Fascist
+
+-Monarchist
+
+-Islamist
+
+
+3. Communism
+
+-Communist
+
+
