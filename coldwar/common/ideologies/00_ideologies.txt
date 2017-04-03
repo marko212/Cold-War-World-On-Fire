@@ -57,7 +57,7 @@ dynamic_faction_names = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 
-		color = { 230 0 0 }
+		color = { 255 20 80 }
 
 rules = {
 			can_declare_war_on_same_ideology = no
