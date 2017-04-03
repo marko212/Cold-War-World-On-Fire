@@ -2,7 +2,7 @@
 
 ## Ideologies:
 
-1. Democratic
+#### 1. Democratic
 
 -Democratic
 
@@ -13,7 +13,7 @@
 -Libertarian
 
 
-2. Fascist
+#### 2. Fascist
 -Neo-Fascist
 
 -Monarchist
@@ -21,7 +21,7 @@
 -Islamist
 
 
-3. Communism
+#### 3. Communism
 
 -Communist
 
