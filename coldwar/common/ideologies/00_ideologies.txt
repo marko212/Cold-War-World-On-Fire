@@ -39,7 +39,7 @@ rules = {
 	}
 	
 	
-	social_democratic = {
+	social_democrat = {
 
 	types = {
 	social = {
