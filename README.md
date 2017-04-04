@@ -4,11 +4,9 @@
 
 #### 1. Democratic
 
--Democratic
+-Conservatist
 
 -Social Democratic
-
--Conservatist
 
 -Libertarian  
 
