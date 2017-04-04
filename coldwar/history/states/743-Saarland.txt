@@ -1,0 +1,24 @@
+state={
+	id=743
+	name="STATE_743"
+	state_category = city
+	provinces={
+		9575 11531 
+	}
+
+	history = {
+		victory_points = {
+			11531 15 
+		}
+	owner = SAR
+	add_core_of = SAR
+	buildings = {
+	infrastructure = 7
+	industrial_complex = 4
+	}
+
+	}
+
+	manpower= 152800
+	buildings_max_level_factor=1.000
+}

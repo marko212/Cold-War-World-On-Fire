@@ -1,0 +1,20 @@
+state={
+	id=746
+	name="STATE_746"
+	provinces={
+		444 537 3438 3473 3572 6236 9387 11478 
+	}
+state_category = city
+history={
+		owner = POL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+		}
+
+		add_core_of = POL
+	}
+
+	manpower= 850840
+	buildings_max_level_factor=1.000
+}
