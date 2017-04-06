@@ -9,11 +9,13 @@
 
 4. Governements 
 
-5. Leader portraits
+5. focus trees
 
-6. Flags
+6. Leader portraits
 
-7. Graphical improvements (loadingscreens, models etc.)
+7. Flags
+
+8. Graphical improvements (loadingscreens, models etc.)
 
 ## Ideologies:
 
