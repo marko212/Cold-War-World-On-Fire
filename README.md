@@ -1,5 +1,20 @@
 # Powderkeg 1960:
 
+## Priorities:
+1. Finish west germany
+
+2. Ideologies
+
+3. New countries (e.g. african countries or india/pakistan)
+
+4. Governements 
+
+5. Leader portraits
+
+6. Flags
+
+7. Graphical improvements (loadingscreens, models etc.)
+
 ## Ideologies:
 
 #### 1. Democratic
