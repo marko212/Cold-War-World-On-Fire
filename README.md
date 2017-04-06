@@ -7,7 +7,7 @@
 
 3. New countries (e.g. african countries or india/pakistan)
 
-4. Governements 
+4. Governments 
 
 5. focus trees
 
