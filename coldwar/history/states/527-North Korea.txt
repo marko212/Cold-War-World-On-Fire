@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = JAP
+		owner = NOK
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -21,6 +21,8 @@ state={
 		}	
 
 		add_core_of = KOR
+		add_core_of = NOK
+		add_core_of = PRC
 	}
 
 	provinces={
